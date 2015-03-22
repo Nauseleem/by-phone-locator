@@ -1,0 +1,1 @@
+this app is aimed at finding people by their phone numbers making of maps. Basically it looks at which booster or satelight of the career he/she is using. Cheers! Locate your partners.
